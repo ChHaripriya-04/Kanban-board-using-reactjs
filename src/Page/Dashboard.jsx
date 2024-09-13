@@ -2,25 +2,25 @@ import React, { useEffect, useState } from "react";
 import Card from "../Components/Card";
 import Navbar from "../Components/navbar";
 import CustomSpinner from "../Components/CustomSpinner";
-import ToDoIcon from "../Assets/Untitled/icons_FEtask/To-do.svg";
-import InProgress from "../Assets/Untitled/icons_FEtask/in-progress.svg";
-import DoneIcon from "../Assets/Untitled/icons_FEtask/Done.svg";
-import BacklogIcon from "../Assets/Untitled/icons_FEtask/Backlog.svg";
-import CancelledIcon from "../Assets/Untitled/icons_FEtask/Cancelled.svg";
-import dotsIcon from "../Assets/Untitled/icons_FEtask/3 dot menu.svg";
-import PlusIcon from "../Assets/Untitled/icons_FEtask/add.svg";
-import NoPriorityIcon from "../Assets/Untitled/icons_FEtask/No-priority.svg";
-import LowPriorityIcon from "../Assets/Untitled/icons_FEtask/Img - Low Priority.svg";
-import MedPriorityIcon from "../Assets/Untitled/icons_FEtask/Img - Medium Priority.svg";
-import HighPriorityIcon from "../Assets/Untitled/icons_FEtask/Img - High Priority.svg";
+import ToDoIcon from "../assets/Untitled/icons_FEtask/To-do.svg";
+import InProgress from "../assets/Untitled/icons_FEtask/in-progress.svg";
+import DoneIcon from "../assets/Untitled/icons_FEtask/Done.svg";
+import BacklogIcon from "../assets/Untitled/icons_FEtask/Backlog.svg";
+import CancelledIcon from "../assets/Untitled/icons_FEtask/Cancelled.svg";
+import dotsIcon from "../assets/Untitled/icons_FEtask/3 dot menu.svg";
+import PlusIcon from "../assets/Untitled/icons_FEtask/add.svg";
+import NoPriorityIcon from "../assets/Untitled/icons_FEtask/No-priority.svg";
+import LowPriorityIcon from "../assets/Untitled/icons_FEtask/Img - Low Priority.svg";
+import MedPriorityIcon from "../assets/Untitled/icons_FEtask/Img - Medium Priority.svg";
+import HighPriorityIcon from "../assets/Untitled/icons_FEtask/Img - High Priority.svg";
 
 // Import Images
-import profile from "../Assets/profile.png";
-import profile1 from "../Assets/profile1.png";
-import profile4 from "../Assets/profile4.jpeg";
-import profile5 from "../Assets/profile5.jpeg";
-import profile6 from "../Assets/profile6.png";
-import profile7 from "../Assets/profile7.png";
+import profile from "../assets/profile.png";
+import profile1 from "../assets/profile1.png";
+import profile4 from "../assets/profile4.jpeg";
+import profile5 from "../assets/profile5.jpeg";
+import profile6 from "../assets/profile6.png";
+import profile7 from "../assets/profile7.png";
 
 const FETCH_URL = "https://api.quicksell.co/v1/internal/frontend-assignment";
 

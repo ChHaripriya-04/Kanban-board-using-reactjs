@@ -1,10 +1,10 @@
 import React from "react";
-import profile from "../Assets/profile.png";
-import profile1 from "../Assets/profile1.png";
-import profile4 from "../Assets/profile4.jpeg";
-import profile5 from "../Assets/profile5.jpeg";
-import profile6 from "../Assets/profile6.png";
-import profile7 from "../Assets/profile7.png";
+import profile from "../assets/profile.png";
+import profile1 from "../assets/profile1.png";
+import profile4 from "../assets/profile4.jpeg";
+import profile5 from "../assets/profile5.jpeg";
+import profile6 from "../assets/profile6.png";
+import profile7 from "../assets/profile7.png";
 
 const Card = ({
   id,
